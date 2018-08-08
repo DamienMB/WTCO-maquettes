@@ -1,0 +1,17 @@
+header img {
+  width: 100px;
+  height: 70px;
+}
+
+h1 {
+  font-size: 1.8em;
+}
+
+.container {
+  height: 200px;
+  background-color: grey;
+}
+
+footer {
+  background-color: black
+}
